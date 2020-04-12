@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/epic-thunder-vxerx/static/css/main.f3736ff6.chunk.css",
-    "main.js": "/epic-thunder-vxerx/static/js/main.7f7a6ff4.chunk.js",
-    "main.js.map": "/epic-thunder-vxerx/static/js/main.7f7a6ff4.chunk.js.map",
+    "main.js": "/epic-thunder-vxerx/static/js/main.d0573e35.chunk.js",
+    "main.js.map": "/epic-thunder-vxerx/static/js/main.d0573e35.chunk.js.map",
     "runtime-main.js": "/epic-thunder-vxerx/static/js/runtime-main.926aa7b2.js",
     "runtime-main.js.map": "/epic-thunder-vxerx/static/js/runtime-main.926aa7b2.js.map",
     "static/css/2.0161871a.chunk.css": "/epic-thunder-vxerx/static/css/2.0161871a.chunk.css",
     "static/js/2.6b4cc6f1.chunk.js": "/epic-thunder-vxerx/static/js/2.6b4cc6f1.chunk.js",
     "static/js/2.6b4cc6f1.chunk.js.map": "/epic-thunder-vxerx/static/js/2.6b4cc6f1.chunk.js.map",
     "index.html": "/epic-thunder-vxerx/index.html",
-    "precache-manifest.602e9c69e984b95dfc4eed96cecccc76.js": "/epic-thunder-vxerx/precache-manifest.602e9c69e984b95dfc4eed96cecccc76.js",
+    "precache-manifest.2263e0fbac6e5ffc56cf2300eb502dcc.js": "/epic-thunder-vxerx/precache-manifest.2263e0fbac6e5ffc56cf2300eb502dcc.js",
     "service-worker.js": "/epic-thunder-vxerx/service-worker.js",
     "static/css/2.0161871a.chunk.css.map": "/epic-thunder-vxerx/static/css/2.0161871a.chunk.css.map",
     "static/css/main.f3736ff6.chunk.css.map": "/epic-thunder-vxerx/static/css/main.f3736ff6.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.0161871a.chunk.css",
     "static/js/2.6b4cc6f1.chunk.js",
     "static/css/main.f3736ff6.chunk.css",
-    "static/js/main.7f7a6ff4.chunk.js"
+    "static/js/main.d0573e35.chunk.js"
   ]
 }

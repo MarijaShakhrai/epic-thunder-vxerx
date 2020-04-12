@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/epic-thunder-vxerx/precache-manifest.602e9c69e984b95dfc4eed96cecccc76.js"
+  "/epic-thunder-vxerx/precache-manifest.2263e0fbac6e5ffc56cf2300eb502dcc.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "424f487a3461a3765b820e1929374ac5",
+    "revision": "de3538baf222e07bfbe3b4d00c00347b",
     "url": "/epic-thunder-vxerx/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/epic-thunder-vxerx/static/css/2.0161871a.chunk.css"
   },
   {
-    "revision": "63eac96dd2aa005583e0",
+    "revision": "5c5942d1cbc8141ce0fc",
     "url": "/epic-thunder-vxerx/static/css/main.f3736ff6.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/epic-thunder-vxerx/static/js/2.6b4cc6f1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63eac96dd2aa005583e0",
-    "url": "/epic-thunder-vxerx/static/js/main.7f7a6ff4.chunk.js"
+    "revision": "5c5942d1cbc8141ce0fc",
+    "url": "/epic-thunder-vxerx/static/js/main.d0573e35.chunk.js"
   },
   {
     "revision": "fe4a298702374d85a533",
