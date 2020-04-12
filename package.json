@@ -1,9 +1,12 @@
 {
-  "homepage": "http://MarijaShakhrai.github.io/reactwarrior-start",
+  "homepage": "http://MarijaShakhrai.github.io/epic-thunder-vxerx",
   "name": "react",
   "version": "1.0.0",
   "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "keywords": [
+    "react",
+    "starter"
+  ],
   "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -29,5 +32,10 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }

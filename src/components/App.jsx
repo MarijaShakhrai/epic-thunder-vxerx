@@ -155,7 +155,7 @@ class App extends React.Component {
             <div className="row">
               {this.state.movies.map(movie => {
                 return (
-                  <div className="col-6 mb-4" key={movie.id}>
+                  <div className="col-md-6 mb-4 col-sm-12" key={movie.id}>
                     <MovieItem
                       movie={movie}
                       willWatch={
